@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Hagen.Gundacker\source\repos\ProjectMonsterBetaFifteen\ProjectMonsterBetaFifteen\FileName.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectMonsterBetaFifteen.vcxproj -> C:\Users\Hagen.Gundacker\source\repos\ProjectMonsterBetaFifteen\x64\Debug\ProjectMonsterBetaFifteen.exe
